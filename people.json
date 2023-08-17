@@ -1,0 +1,56 @@
+[
+  {
+      "name": "John Dud",
+      "age": 29,
+      "isStudent": false,
+      "address": {
+        "city": "New York",
+        "state": "NY"
+      }
+    },
+    {
+      "name": "Jane Contigo",
+      "age": 26,
+      "isStudent": true,
+      "address": {
+        "city": "Los Angeles",
+        "state": "CA"
+      }
+    },
+    {
+      "name": "Joe Ewida",
+      "age": 24,
+      "isStudent": false,
+      "address": {
+        "city": "St.John's",
+        "state": "NL"
+      }
+    },
+    {
+      "name": "George Cauldron",
+      "age": 30,
+      "isStudent": true,
+      "address": {
+        "city": "Sarasota",
+        "state": "FL"
+      }
+    },
+    {
+      "name": "Anna Banfield",
+      "age": 26,
+      "isStudent": true,
+      "address": {
+        "city": "Winnipeg",
+        "state": "MB"
+      }
+    },
+    {
+      "name": "Brenda Woodburn",
+      "age": 35,
+      "isStudent": false,
+      "address": {
+        "city": "St.John's",
+        "state": "NL"
+      }
+    }
+]
